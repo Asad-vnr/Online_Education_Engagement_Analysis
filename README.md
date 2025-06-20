@@ -1,4 +1,4 @@
-🎓 Student Engagement Detection using Emotion Recognition
+#🎓 Student Engagement Detection using Emotion Recognition
 
 This project uses a webcam to analyze students' facial expressions in real time using DeepFace, classifies their emotions, and maps them to corresponding engagement levels. The data is stored every few minutes in a CSV file for future analysis and improvement in online education systems.
 📌 Features
